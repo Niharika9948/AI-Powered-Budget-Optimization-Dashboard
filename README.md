@@ -16,7 +16,7 @@ A Python-based application that analyzes budget vs expenditure, predicts future 
 
 ```bash
 pip install -r requirements.txt
-streamlit run dashboard/app.py
+streamlit run app.py
 ```
 
 ##  Output
